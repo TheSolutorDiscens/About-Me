@@ -62,5 +62,4 @@ I'm a 14-year-old teen with a passion for **code**. For me *coding* is just a fu
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TheSolutorDiscens&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheSolutorDiscens&theme=tokyonight" alt="Streak Stats" />
 </p>
